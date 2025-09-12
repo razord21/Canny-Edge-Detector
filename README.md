@@ -29,6 +29,3 @@ Adjust sigma, tlow, thigh as needed. Example images are in `canny/pics/`.
 - `bin/`: compiled binary
 - `build/`: object files
 - `canny/pics/`: sample images (PGM)
-
-#### License Notice
-This project bundles legacy Canny code by Mike Heath et al. for educational/research use; see file headers for details.
