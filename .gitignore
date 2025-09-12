@@ -1,0 +1,49 @@
+# Build artifacts
+/build/
+/bin/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# CUDA/Profiling
+*.nvvp
+*.nsys-rep
+*.nsys-db
+*.nsys-ui
+*.nvprof
+*.cubin
+*.ptx
+
+# Profiling outputs
+canny/call_graph.dot
+canny/call_graph.png
+canny/gprof_*.txt
+canny/gprof_canny.txt
+canny/lastrun.binary
+
+# Generated images
+canny/pics/*_cpu.pgm
+canny/pics/*_gpu.pgm
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Misc
+.gmon.out
